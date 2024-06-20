@@ -8,7 +8,6 @@
 
     packages = with pkgs; [
       brave
-      microsoft-edge
     ];
 
     stateVersion = "22.11";
